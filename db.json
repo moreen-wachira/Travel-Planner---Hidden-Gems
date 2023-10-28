@@ -1,0 +1,57 @@
+{"destinations": [
+    {
+      "name": "Kikuletwa Springs, Moshi, Tanzania",
+      "description": "Kikuletwa springs, Chemka oasis is a unique phenomenon in the heart of Moshi, a few minutes drive from the highway",
+      "image": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*sqp4yvJ33aHSbqUE-htBoA.jpeg",
+      "likes": 0
+    },
+    {
+      "name": "Themi Falls, Arusha, Tanzania",
+      "description": "The themi falls leisure park is a restaurant, mini botanical garden next to a hidden waterfall in Arusha, Tanzania.",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/26/a7/96/marvelous-garden.jpg?w=900&h=600&s=1",
+      "likes": 0
+    },
+    {
+      "name": "Oldonyo Orok Camp, Namanga, Kenya",
+      "description": "A beautiful little gem hidden in Namanga overlooking the beautiful and lush Namanga Hills",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/291911400.jpg?k=f26ca75a491e78a111fed42a59adfe91b16fd75bf0e8221346ef756b1d00c26c&o=&hp=1",
+      "likes": 0
+    },
+    {
+      "name": "Ngare Ndare Forest, Nanyuki, Kenya",
+      "description": "Ngare Ndare forest is a lush indigenous forest at the northern foothills of Mt. Kenya.",
+      "image": "https://ngarendare.org/wp-content/uploads/2022/04/Beatiful-600x400.jpg",
+      "likes": 0
+    },
+    {
+        "name": "Mafia Island, Zanzibar, Tanzania",
+        "description": "Located off the coast of Tanzania, Mafia Island is a haven for those seeking a peaceful retreat from the hustle and bustle of city life",
+        "image": "https://www.kenyawildlifetours.com/wp-content/uploads/2023/03/Mafia-Island-5.jpg",
+        "likes": 0
+      },
+      {
+        "name": "Ssese Islands, Lake Victoria, Uganda",
+        "description": "The Ssese Islands are an archipelago of eighty-four islands in the northwestern part of Lake Victoria in Uganda.",
+        "image": "https://www.sseseislandsresorthotel.com/blog/wp-content/uploads/2017/01/Ssese.jpg",
+        "likes": 0
+      },
+      {
+        "name": "Budongo Forest in Masindi, Uganda",
+        "description": "This lush, ancient forest in Masindi is a birding paradise waiting to be explored.",
+        "image": "https://nilepost.co.ug/wp-content/uploads/2023/09/budong.jpg",
+        "likes": 0
+      },
+      {
+        "name": "Rusinga Island, Lake Victoria, Kisumu, Kenya",
+        "description": "Rusinga Island lies to the East of Lake Victoria, in Homa Bay County, with the most stunning views of the lake.",
+        "image": "https://i0.wp.com/www.scrapbookjourneys.com/wp-content/uploads/2017/01/DSC_6250-Copy.jpg?fit=1000%2C667&ssl=1",
+        "likes": 0
+      },
+    {
+        "name": "Murchison Falls, Uganda",
+        "description": "This is a waterfall at the apex of Lake Albert on the Victoria Nile in Uganda.",
+        "image": "https://observer.ug/images2/tourism/Murchison-Falls.jpg",
+        "likes": 0
+      }
+  ]
+}
